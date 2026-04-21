@@ -23,27 +23,16 @@ This repo works as a simple image hosting repository for:
 
 ```text
 image-bed/
-├─ avatars/
-├─ blog/
+├─ avatars/ — profile images / 头像图片
+├─ blog/ — blog post images organized by year and month / 按年月整理的博客配图
 │  └─ 2026/
 │     └─ 04/
-├─ projects/
-├─ icons/
-├─ screenshots/
-├─ social/
-└─ archive/
+├─ projects/ — screenshots and assets for different projects / 各类项目截图与资源
+├─ icons/ — icons, logos, svg files / 图标、Logo、SVG 文件
+├─ screenshots/ — page captures and interface screenshots / 页面截图与界面截图
+├─ social/ — covers for posts or sharing / 社交平台封面图
+└─ archive/ — old or unused images / 旧图片或暂时不用的图片
 ```
-
----
-
-## Suggested folder usage / 推荐目录说明
-- avatars/ — profile images / 头像图片
-- blog/ — blog post images organized by year and month / 按年月整理的博客配图
-- projects/ — screenshots and assets for different projects / 各类项目截图与资源
-- icons/ — icons, logos, svg files / 图标、Logo、SVG 文件
-- screenshots/ — page captures and interface screenshots / 页面截图与界面截图
-- social/ — covers for posts or sharing / 社交平台封面图
-- archive/ — old or unused images / 旧图片或暂时不用的图片
 
 ---
 
