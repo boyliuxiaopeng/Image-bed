@@ -37,13 +37,13 @@ image-bed/
 ---
 
 ## Suggested folder usage / 推荐目录说明
-avatars/ — profile images / 头像图片
-blog/ — blog post images organized by year and month / 按年月整理的博客配图
-projects/ — screenshots and assets for different projects / 各类项目截图与资源
-icons/ — icons, logos, svg files / 图标、Logo、SVG 文件
-screenshots/ — page captures and interface screenshots / 页面截图与界面截图
-social/ — covers for posts or sharing / 社交平台封面图
-archive/ — old or unused images / 旧图片或暂时不用的图片
+- avatars/ — profile images / 头像图片
+- blog/ — blog post images organized by year and month / 按年月整理的博客配图
+- projects/ — screenshots and assets for different projects / 各类项目截图与资源
+- icons/ — icons, logos, svg files / 图标、Logo、SVG 文件
+- screenshots/ — page captures and interface screenshots / 页面截图与界面截图
+- social/ — covers for posts or sharing / 社交平台封面图
+- archive/ — old or unused images / 旧图片或暂时不用的图片
 
 ---
 
@@ -52,19 +52,19 @@ archive/ — old or unused images / 旧图片或暂时不用的图片
 To keep files organized, please follow these rules:
 为了保持仓库整洁，建议遵循以下命名规则：
 
-use lowercase letters / 使用小写字母
-use hyphens (-) between words / 单词之间使用连字符 -
-avoid spaces / 不要使用空格
-avoid Chinese characters in file names / 文件名尽量不要使用中文
-keep names short and descriptive / 文件名尽量简短且有含义
+- use lowercase letters / 使用小写字母
+- use hyphens (-) between words / 单词之间使用连字符 -
+- avoid spaces / 不要使用空格
+- avoid Chinese characters in file names / 文件名尽量不要使用中文
+- keep names short and descriptive / 文件名尽量简短且有含义
 
 ---
 
 ## Examples / 示例
-profile-avatar.png
-github-cover-2026-04.jpg
-portfolio-homepage.webp
-markdown-note-demo.png
+- profile-avatar.png
+- github-cover-2026-04.jpg
+- portfolio-homepage.webp
+- markdown-note-demo.png
 
 ---
 
@@ -87,21 +87,21 @@ Use it in HTML:Use it in HTML:
 ---
 
 ## Notes / 注意事项
-This repository is mainly for personal image hosting and file organization.
-本仓库主要用于个人图片托管与整理。
-Please keep folder names and file names consistent.
-请尽量保持目录名和文件名风格统一。
-Move outdated files into archive/ instead of deleting them immediately to avoid broken links.
-旧图片建议先移动到 archive/，不要立刻删除，以免导致旧链接失效。
-Public repositories are accessible to others, so do not upload private or sensitive images.
-公开仓库中的文件可被他人访问，请不要上传隐私或敏感图片。
+- This repository is mainly for personal image hosting and file organization.
+- 本仓库主要用于个人图片托管与整理。
+- Please keep folder names and file names consistent.
+- 请尽量保持目录名和文件名风格统一。
+- Move outdated files into archive/ instead of deleting them immediately to avoid broken links.
+- 旧图片建议先移动到 archive/，不要立刻删除，以免导致旧链接失效。
+- Public repositories are accessible to others, so do not upload private or sensitive images.
+- 公开仓库中的文件可被他人访问，请不要上传隐私或敏感图片。
 
 ---
 
 ## License / 许可说明
 
-Images in this repository are for personal hosting and display.
-Please do not reuse, redistribute, or use them commercially without permission.
+- Images in this repository are for personal hosting and display.
+- Please do not reuse, redistribute, or use them commercially without permission.
 
-本仓库中的图片主要用于个人托管与展示。
-未经许可，请勿转载、再分发或用于商业用途。
+- 本仓库中的图片主要用于个人托管与展示。
+- 未经许可，请勿转载、再分发或用于商业用途。
