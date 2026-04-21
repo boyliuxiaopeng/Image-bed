@@ -74,12 +74,14 @@ After uploading an image, open the file and click Raw to get the direct link.
 上传图片后，打开对应文件并点击 Raw，即可获取图片直链。
 
 Example / 示例
-```Markdown
+```text
 https://raw.githubusercontent.com/your-username/image-bed/main/avatars/profile.png
 ```
-Use it in HTML:Use it in HTML:
-
-在 HTML 中使用：
+Use it in Markdown:
+```Markdown
+![profile](https://raw.githubusercontent.com/your-username/image-bed/main/avatars/profile.png)
+```
+Use it in HTML:
 ```html
 <img src="https://raw.githubusercontent.com/your-username/image-bed/main/avatars/profile.png" alt="profile">
 ```
