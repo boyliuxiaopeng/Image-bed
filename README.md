@@ -32,6 +32,7 @@ image-bed/
 ├─ screenshots/
 ├─ social/
 └─ archive/
+```
 
 ---
 
@@ -75,12 +76,13 @@ After uploading an image, open the file and click Raw to get the direct link.
 Example / 示例
 ```Markdown
 https://raw.githubusercontent.com/your-username/image-bed/main/avatars/profile.png
-
+```
 Use it in HTML:Use it in HTML:
 
 在 HTML 中使用：
 ```html
 <img src="https://raw.githubusercontent.com/your-username/image-bed/main/avatars/profile.png" alt="profile">
+```
 
 ---
 
